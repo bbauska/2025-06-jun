@@ -141,6 +141,9 @@ a:hover::after {
 .flag {
     background-color:#98fb98;  /* very soft lime green */
 }
+.no-kings {
+    background-color:#ffd700;  /* light gold */
+}
 .blood-donor {
     background-color:#a6f4ff;  /* pale cyan */
 }
