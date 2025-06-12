@@ -103,7 +103,7 @@ a:hover::after {
 }
 <!-- World, National & International Days -->
 .world-milk {
-    background-color:#ffd700;  /* gold */
+    background-color:#9aff9a;  /* pale lime green */
 }
 .natl-egg {
     background-color:#c2e7e7;  /* light grayish cyan */
@@ -138,11 +138,14 @@ a:hover::after {
 .against-child-labor {
     background-color:#9ab3ff;  /* pale blue */
 }
+.silus-dance {
+    background-color:#e8e193;  /* very soft yellow */
+}
 .flag {
     background-color:#98fb98;  /* very soft lime green */
 }
 .no-kings {
-    background-color:#ffd700;  /* light gold */
+    background-color:#ffd700;  /* pure (or mostly pure) yellow */
 }
 .blood-donor {
     background-color:#a6f4ff;  /* pale cyan */
@@ -151,7 +154,7 @@ a:hover::after {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .intl-picnic {
-    background-color:#ffff9a;  /* pale yellow */
+    background-color:#ffff4e;  /* light yellow */
 }
 .juneteenth {
     background-color:#d3d3d3;  /* light gray */
@@ -166,7 +169,7 @@ a:hover::after {
     background-color:#ccff9a;  /* pale green */
 }
 .intl-yoga {
-    background-color:#ffd700;  /* gold */
+    background-color:#ffd700;  /* pure (or mostly pure) yellow */
 }
 .natl-selfie {
     background-color:#ffef9a;  /* pale yellow */
