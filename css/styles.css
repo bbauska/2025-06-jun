@@ -54,10 +54,10 @@ h1 {
 }
 
 ul {
-    font-size:75%;
-    list-style:none;
-    padding-left:20px;
-    padding-right:5px;
+  font-size:75%;
+  list-style:none;
+  padding-left:20px;
+  padding-right:5px;
 }
 
 .event {
@@ -66,6 +66,7 @@ ul {
     padding:5px;
     margin:5px 0;
 }
+
 <!-- added 6-10-25 5:08pm -->
 .container {
   background-color: white;
