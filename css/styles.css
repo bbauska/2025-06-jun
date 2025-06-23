@@ -104,7 +104,10 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
-.wld-milk {
+.world-milk {
+    background-color:#9aff9a;  /* pale lime green */
+}
+.wrld-milk {
     background-color:#9aff9a;  /* pale lime green */
 }
 .natl-egg {
