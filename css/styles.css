@@ -81,6 +81,7 @@ a {
   color: royalblue;
   text-decoration: none;
   position: relative;
+  padding-right:50px;  /* 6-23-2025 */
   font-family: Helvetica, Arial, sans-serif;
   transition: color 0.3s ease-in-out;
 }
