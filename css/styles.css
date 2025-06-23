@@ -158,6 +158,9 @@ a:hover::after {
 .fathers-day {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
+.last-day-school {
+    background-color:#ff9aff;  /* pale magenta */
+}
 .intl-picnic {
     background-color:#678dff;  /* very light blue */
 }
