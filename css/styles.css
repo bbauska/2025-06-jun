@@ -1,6 +1,7 @@
 <!-- css/styles.css of 2025-jun.bauska.org -->
+<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
-  font-family:Helvetica;
+  font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
 table {
   table-layout:fixed;
@@ -16,18 +17,18 @@ table {
 }
 
 h1 {
-  color:#FFF;
+  color:#fff;  /* white */
   font-size:200%;
   font-weight:700;
   letter-spacing:3px;
   padding-right:50px;
   padding-top:150px;
-  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
 /* padding-bottom:150px; */
 .copyright-notice {
-  color:#fff;
+  color:#fff;  /* white */
   font-size:65%;  /* 50% */
   padding-right:50px;  /* 50px */
   text-align:right;
@@ -43,7 +44,7 @@ h1 {
   line-height:25px;
 }
 .week {
-  background-color:#ffff00;  /* eaeaea = very light gray */
+  background-color:#ffff00;  /* pure (or mostly pure) yellow, eaeaea = very light gray */
   height:75px;
   margin:0;
   text-align:left;
@@ -66,11 +67,10 @@ ul {
     padding:5px;
     margin:5px 0;
 }
-
 <!-- added 6-10-25 5:08pm -->
 .container {
-  background-color: white;
-  border: 2px solid #dcdcdc;
+  background-color: #ffffff;  /* white */
+  border: 2px solid #dcdcdc;  /* very light gray */
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba
@@ -79,7 +79,7 @@ ul {
   font-family: Helvetica, Arial, sans-serif;
 }
 a {
-  color: royalblue;
+  color: #4169e1;  /* royalblue */
   text-decoration: none;
   position: relative;
   padding-right:50px;  /* 6-23-2025 */
@@ -91,14 +91,14 @@ a::after {
   display: block;
   width: 0;
   height: 2px;
-  background: crimson;
+  background: #990000;  /* crimson */
   transition: width 0.3s;
   position: absolute;
   bottom: -2px;
   left: 0;
 }
 a:hover {
-  color: crimson;
+  color: #990000;  /* crimson */
 }
 a:hover::after {
   width: 88%;
@@ -198,3 +198,4 @@ a:hover::after {
 .intl-asteroid {
     background-color:#e8e193;  /* very soft yellow */
 }
+
