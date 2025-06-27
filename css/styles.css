@@ -1,4 +1,4 @@
-<!-- css/styles.css of 2025-jun.bauska.org -->
+<!-- css/styles.css of github 2025-06-jun.bauska.org making 2025-jun.bauska.org -->
 <!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
@@ -79,10 +79,10 @@ ul {
   font-family: Helvetica, Arial, sans-serif;
 }
 a {
-  color: #4169e1;  /* royalblue */
+  color: #4169e1;
   text-decoration: none;
   position: relative;
-  padding-right:50px;  /* 6-23-2025 */
+  padding-right:50px;
   font-family: Helvetica, Arial, sans-serif;
   transition: color 0.3s ease-in-out;
 }
@@ -91,14 +91,14 @@ a::after {
   display: block;
   width: 0;
   height: 2px;
-  background: #990000;  /* crimson */
+  background: #990000;
   transition: width 0.3s;
   position: absolute;
   bottom: -2px;
   left: 0;
 }
 a:hover {
-  color: #990000;  /* crimson */
+  color: #990000;
 }
 a:hover::after {
   width: 88%;
@@ -198,4 +198,3 @@ a:hover::after {
 .intl-asteroid {
     background-color:#e8e193;  /* very soft yellow */
 }
-
